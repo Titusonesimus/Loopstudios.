@@ -1,0 +1,323 @@
+body{
+    width: 100%;
+    height: 300%;
+    background-color: white;
+    margin: 0;
+}
+
+.loop{
+    display: flex;
+    height: 100vh;
+    background-image: url(./images/image-hero.jpg);
+    color: white;
+    justify-content: space-between;
+    font-family: "Alata", sans-serif;
+}
+
+h2{
+    margin-left: 170px;
+    font-family: "Alata", sans-serif;
+    font-size: 26px;
+}
+
+.studio{
+    display: flex;
+    margin-top: 200px;
+    font-family: "Alata", sans-serif;
+    
+}
+nav h6{
+    margin-right: 30px;
+    font-family: "Alata", sans-serif;
+}
+nav{
+    display: flex;
+    margin-right: 50px;
+    font-family: "Alata", sans-serif;
+
+}
+
+.deliver{
+    margin-top: -400px;
+    margin-left: 170px;
+    border: 1px solid white;
+    color: white;
+    width: 600px;
+    height: 45vh;
+    font-size: 70px;
+    align-content: center;
+    font-weight: 100;
+    padding-left: 30px;
+    font-family: "Alata", sans-serif;
+    
+
+
+}
+
+.item1{
+    background-image: url(./images/image-interactive.jpg);
+    width: 1050px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    font-family: "Alata", sans-serif;
+}
+
+.item2{
+    width: 600px;
+    height: 300px;
+    background-color:white;
+    margin-top: 220px;
+    margin-right: 50px;
+    color: black;
+    margin-left: -200;
+    align-content:end;
+    text-align: justify;
+    padding-left: 100px;
+    font-family: "Alata", sans-serif;
+    font-style: normal;
+     }
+     
+     .item2 h1{
+        font-size: 50px;
+        color: hsl(0, 0%, 41%);
+     }
+
+     .item2 p{
+        font-size: 13px;
+        color: hsl(0, 0%, 55%);
+     }
+    .item3{
+        display: flex;
+        justify-content: space-between;
+        margin-top: 40px;
+        font-family: "Alata", sans-serif;
+    }
+.item3 h6{
+    border: 1px solid hsl(0, 0%, 41%);
+    color: hsl(0, 0%, 41%);
+    width: 80px;
+    height: 15px;
+    font-size: 13px;
+    margin-right: 100px;
+    text-align: center;
+    padding-bottom: 4px;
+    font-family: "Alata", sans-serif;
+}
+.item3 h2{
+    font-weight: 100;
+    font-size: 30px;
+    color: hsl(0, 0%, 41%);
+}
+
+.item4{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: "Alata", sans-serif;
+}
+.item5{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-family: "Alata", sans-serif;
+}
+
+.sec1{
+    color: white;
+    font-size: 30px;
+    width: 17%;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-deep-earth.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec2{
+    color: white;
+    font-size: 30px;
+    width: 17%;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-night-arcade.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec3{
+    color: white;
+    width: 17%;
+    font-size: 30px;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-soccer-team.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec4{
+    color: white;
+    width: 17%;
+    font-size: 30px;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-grid.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec5{
+    color: white;
+    width: 17%;
+    font-size: 30px;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-from-above.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec6{
+    color: white;
+    width: 17%;
+    font-size: 30px;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-pocket-borealis.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec7{
+    color: white;
+    font-size: 30px;
+    width: 17%;
+    height: 65vh;
+    margin-left: 20px;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-curiosity.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.sec8{
+    color: white;
+    font-size: 30px;
+    width: 17%;
+    height: 65vh;
+    margin-left: 20px;
+    margin-right: 0;
+    align-content:end;
+    text-align: justify;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    background-image: url(./images/image-fisheye.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Alata", sans-serif;
+}
+
+.footer{
+     display: flex;
+    height: 25vh;
+    color: white;
+    background-color: black;
+    margin-top: 50px;
+    justify-content: space-between;
+    font-family: "Alata", sans-serif;
+}
+.foot1{
+    margin-left: 150px;
+    font-family: "Alata", sans-serif;
+}
+
+.foot1 nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0;
+    font-family: "Alata", sans-serif;
+    
+    
+}
+.foot2 nav{
+    display: flex;
+    font-family: "Alata", sans-serif;
+}
+
+.foot1 nav p{
+    margin-left: 20px;
+    margin-top: -5;
+    margin-bottom: 50px;
+    font-family: "Alata", sans-serif;
+}
+
+.foot1 h3{
+    margin-left: 20px;
+    font-size: 26px;
+    font-family: "Alata", sans-serif;
+}
+
+.foot1 p{
+    font-size: 14px;
+}
+
+.foot2{
+    margin-right: 50px;
+    font-family: "Alata", sans-serif;
+}
+
+.foot2 nav img{
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 15px;
+   
+   
+    
+}
+.foot2 nav{
+    justify-content: end;
+}
+
+.foot2 h6{
+    color: hsl(0, 0%, 55%);
+    font-size: 14px;
+    margin-right: 50px;
+    margin-top: 20px;
+
+}
